@@ -1,3 +1,3 @@
 greetings = "Hello Joe"
 
-print("greetings")
+print(greetings)
