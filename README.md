@@ -1,5 +1,5 @@
 # IBM-Back-End-Development                            
-Professional Certificate - 11 course series       
+Professional Certificate - 11 course series                        
                                                        
                              
 Prepare for a career in the high-growth field of software development. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level back-end developer in as little as 6 months.                                    
