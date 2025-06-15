@@ -7,7 +7,7 @@ Prepare for a career in the high-growth field of software development. In this p
 Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions behind websites, and the demand for these professionals has never been greater.
                                                                                                                  
 You’ll learn the latest tools and technologies used by professional back-end developers, including Linux scripting, Git and GitHub, Python, SQL, Databases, Django, Containers with Docker, Kubernetes, and OpenShift, Microservices, Serverless, as well as Application Security, and Monitoring. You will practice working hands-on with these technologies to build the type of server-side systems and services that power modern web and mobile applications.
-
+                                   
 Upon completing the full program, you will have built a portfolio of projects to provide you with the confidence to excel in your interviews and you’ll receive a Professional Certificate from IBM to showcase your proficiency to potential employers. 
 
 You will also receive access to join IBM’s Talent Network where you’ll receive job opportunities as soon as they are posted, recommendations matched to your skills and interests, and tips and tricks to help you stand apart from the crowd. 
