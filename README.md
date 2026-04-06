@@ -30,4 +30,4 @@ Building and deploying a guestbook that rolls out updates using Openshift image 
 
 Developing a back-end application that displays song lyrics, band photos, and sells concert tickets by creating and integrating a Mongo database, a Flask service, and a Django application
 
- Identifying and analyzing a software engineering job posting 
+ Identifying and analyzing a software engineering job posting                    
