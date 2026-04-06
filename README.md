@@ -1,5 +1,5 @@
 # IBM-Back-End-Development                                                          
-Professional Certificate - 11 course series                                                                                                                                                                                                                                                                                                           
+Professional Certificate - 11 course series                                                                                                                                                                                                                                                                                                                              
                                                                                                     
                                                          
 Prepare for a career in the high-growth field of software development. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level back-end developer in as little as 6 months.                                                                                         
@@ -28,5 +28,5 @@ Adding a feature to an online course by leveraging Django full-stack skills
 
 Building and deploying a guestbook that rolls out updates using Openshift image streams and a multi-tier versioning of the guestbook
 
-Developing a back-end application that displays song lyrics, band photos, and sells concert tickets by creating and integrating a Mongo database, a Flask service, and a Django application
+Developing a back-end application that displays song lyrics, band photos, and sells concert tickets by creating and integrating a Mongo database, a Flask service, and a Django application                      
                
