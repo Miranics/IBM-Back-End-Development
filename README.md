@@ -28,5 +28,5 @@ Adding a feature to an online course by leveraging Django full-stack skills
 
 Building and deploying a guestbook that rolls out updates using Openshift image streams and a multi-tier versioning of the guestbook
 
-Developing a back-end application that displays song lyrics, band photos, and sells concert tickets by creating and integrating a Mongo database, a Flask service, and a Django application                      
+Developing a back-end application that displays song lyrics, band photos, and sells concert tickets by creating and integrating a Mongo database, a Flask service, and a Django application....                      
                
