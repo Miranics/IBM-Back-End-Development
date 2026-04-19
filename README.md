@@ -21,8 +21,8 @@ Developing shell scripts for repetitive tasks like backing up files
 Creating and sharing open-source projects on GitHub
 
 Developing a Python application with endpoints that translate between English to French 
-
-Refining code and hosting an application using IBM Cloud and Cloud Foundry while enabling CI/CD to ensure changes are automatically deployed 
+                                                                           
+Refining code and hosting an application using IBM Cloud and Cloud Foundry while enabling CI/CD to ensure changes are automatically deployed
 
 Adding a feature to an online course by leveraging Django full-stack skills 
 
